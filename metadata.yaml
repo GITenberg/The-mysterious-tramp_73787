@@ -1,5 +1,8 @@
 _repo: The-mysterious-tramp_73787
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 73787-h/images/cover_small.jpg
 creator:
   author:
     agent_name: Barclay, Vera C. (Vera Charlesworth)
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/31812
     wikipedia: https://en.wikipedia.org/wiki/Vera_Barclay
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73787#The-mysterious-tramp
 gutenberg_issued: '2024-06-07'
 gutenberg_type: Text
 identifiers:
